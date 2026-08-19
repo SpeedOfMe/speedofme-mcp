@@ -149,6 +149,7 @@ Found a bug or want a tool added? Open an issue, or email support@speedof.me.
 
 ## Links
 
+- [npm package](https://www.npmjs.com/package/@speedofme/mcp)
 - [Get started](https://speedof.me/api)
 - [API portal](https://speedof.me/api/portal/)
 - [API docs](https://speedof.me/api/docs/)
