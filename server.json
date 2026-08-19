@@ -1,0 +1,47 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "me.speedof/speed-test",
+  "title": "SpeedOf.Me",
+  "description": "Official SpeedOf.Me server - Accurate speed tests via over 130 global edge servers with analytics.",
+  "repository": {
+    "url": "https://github.com/SpeedOfMe/speedofme-mcp",
+    "source": "github"
+  },
+  "version": "1.1.1",
+  "websiteUrl": "https://speedof.me/api",
+  "icons": [
+    {
+      "src": "https://speedof.me/android-chrome-192x192.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "192x192"
+      ]
+    },
+    {
+      "src": "https://speedof.me/android-chrome-512x512.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "512x512"
+      ]
+    }
+  ],
+  "packages": [
+    {
+      "registryType": "npm",
+      "identifier": "@speedofme/mcp",
+      "version": "1.1.1",
+      "transport": {
+        "type": "stdio"
+      },
+      "environmentVariables": [
+        {
+          "name": "SOM_API_SECRET",
+          "description": "Your SpeedOf.Me API secret from https://speedof.me/api/portal/settings.php",
+          "isRequired": true,
+          "format": "string",
+          "isSecret": true
+        }
+      ]
+    }
+  ]
+}
