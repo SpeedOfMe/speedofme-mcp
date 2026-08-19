@@ -73,6 +73,8 @@ CrewAI, Semantic Kernel) are in the
 | `sustainTime` | number | 6 | Seconds to sustain each sample (1-8). Lower is faster, higher is more accurate |
 | `testTimeout` | number | 300 | Wall-clock cap for the whole run, in seconds. 0 disables, min 30, max 1800 |
 
+The tool replies with formatted text. The underlying result looks like this:
+
 ```json
 {
   "testId": "abc123",

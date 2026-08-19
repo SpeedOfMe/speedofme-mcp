@@ -5,7 +5,8 @@
   "description": "Official SpeedOf.Me server - Accurate speed tests via over 130 global edge servers with analytics.",
   "repository": {
     "url": "https://github.com/SpeedOfMe/speedofme-mcp",
-    "source": "github"
+    "source": "github",
+    "id": "1340004242"
   },
   "version": "1.1.1",
   "websiteUrl": "https://speedof.me/api",
