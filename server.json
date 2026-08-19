@@ -8,7 +8,7 @@
     "source": "github",
     "id": "1340004242"
   },
-  "version": "1.1.1",
+  "version": "1.1.2",
   "websiteUrl": "https://speedof.me/api",
   "icons": [
     {
@@ -30,7 +30,7 @@
     {
       "registryType": "npm",
       "identifier": "@speedofme/mcp",
-      "version": "1.1.1",
+      "version": "1.1.2",
       "transport": {
         "type": "stdio"
       },
