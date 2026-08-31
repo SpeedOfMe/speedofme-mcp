@@ -6,6 +6,7 @@ edge servers.
 
 [![npm version](https://img.shields.io/npm/v/@speedofme/mcp.svg)](https://www.npmjs.com/package/@speedofme/mcp)
 [![MCP Registry](https://img.shields.io/badge/MCP%20Registry-me.speedof%2Fspeed--test-blue)](https://registry.modelcontextprotocol.io/v0/servers?search=me.speedof)
+[![GitHub MCP Registry](https://img.shields.io/badge/GitHub%20MCP%20Registry-listed-181717?logo=github)](https://github.com/mcp/me.speedof/speed-test)
 [![Node](https://img.shields.io/badge/node-%3E%3D18-brightgreen)](https://nodejs.org)
 
 ```
