@@ -2,13 +2,13 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "me.speedof/speed-test",
   "title": "SpeedOf.Me",
-  "description": "Official SpeedOf.Me server - Accurate speed tests via over 130 global edge servers with analytics.",
+  "description": "Official SpeedOf.Me server - Accurate speed tests via over 200 global edge servers with analytics.",
   "repository": {
     "url": "https://github.com/SpeedOfMe/speedofme-mcp",
     "source": "github",
     "id": "1340004242"
   },
-  "version": "1.1.3",
+  "version": "1.1.4",
   "websiteUrl": "https://speedof.me/api",
   "icons": [
     {
@@ -30,7 +30,7 @@
     {
       "registryType": "npm",
       "identifier": "@speedofme/mcp",
-      "version": "1.1.3",
+      "version": "1.1.4",
       "transport": {
         "type": "stdio"
       },
